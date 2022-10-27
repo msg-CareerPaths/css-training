@@ -1,4 +1,4 @@
-#The box model
+# The box model
 
 Every HTML element has a box around it that consists of margins, 
 border, padding and actual content.
