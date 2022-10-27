@@ -7,10 +7,10 @@ Content to be added:
   - [ ] https://www.youtube.com/watch?v=OEV8gMkCHXQ&ab_channel=Fireship
 - Basics of language
   - [ ] https://htmldog.com/guides/css/beginner/applyingcss/
-  - [x] Box model
+  - [x] Box model :construction:
   - [ ] Selectors
   - [ ] Specificators and Important!
-  - [ ] Absolute, relative and float
+  - [ ] Absolute, relative and float :construction:
   - [ ] Before and After
   - [ ] Media Queries
   - [ ] Grid
