@@ -1,5 +1,7 @@
 # CSS Training
 
+Idea: make an exercise to do the css styling / or smaller problems
+
 Content to be added:
 - Add also videos
   - https://www.youtube.com/watch?v=OEV8gMkCHXQ&ab_channel=Fireship
