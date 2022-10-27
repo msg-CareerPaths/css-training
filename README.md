@@ -25,11 +25,10 @@ Content to be added:
   - https://github.com/airbnb/css
 - Browser compatibility
   - https://caniuse.com
--  Use Games like?
-  - https://flexboxfroggy.com
+-  Use Games like: https://flexboxfroggy.com
 - Framework specific information
   - https://medium.com/swlh/how-to-structure-scss-in-an-angular-app-a1b8a759a028
   
-  - Advanced Topics
-   - https://github.com/xdanradu/frontend-presentation/blob/main/examples.md
-   - Tailwind
+- Advanced Topics
+  - https://github.com/xdanradu/frontend-presentation/blob/main/examples.md
+  - Tailwind
