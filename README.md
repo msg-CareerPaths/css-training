@@ -34,3 +34,5 @@ Content to be added:
 - Advanced Topics
   - https://github.com/xdanradu/frontend-presentation/blob/main/examples.md
   - Tailwind
+  - https://js.devexpress.com/Demos/WidgetsGallery/Demo/Form/GroupedFields/Angular/Dark/
+  - https://tailwindui.com/components/application-ui/forms/form-layouts
