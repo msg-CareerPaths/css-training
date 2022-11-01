@@ -7,7 +7,7 @@ Content to be added:
   - [ ] https://www.youtube.com/watch?v=OEV8gMkCHXQ&ab_channel=Fireship
 - Basics of language
   - [ ] https://htmldog.com/guides/css/beginner/applyingcss/
-  - [x] [Box model](https://github.com/msg-CareerPaths/css-training/blob/main/docs/box-model.md) :construction:
+  - [x] [Box model](https://github.com/msg-CareerPaths/css-training/blob/main/docs/box-model.md)
   - [ ] Selectors
   - [ ] Specificators and Important!
   - [ ] Absolute, relative and float :construction:
