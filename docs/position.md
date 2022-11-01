@@ -30,6 +30,7 @@ References: [W3Schools](https://www.w3schools.com/css/css_positioning.asp),
 - Elements that are positioned absolute will ignore this property
 - Elements close to a floating element will flow around it. To avoid this the clear property can be used
 
-References: [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats), [:movie_camera:](https://www.youtube.com/watch?v=LrdkRMZhgZg)
+References: [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats), 
+[:arrow_forward:](https://www.youtube.com/watch?v=LrdkRMZhgZg)
 
 Hands on: [Example 1](https://stackblitz.com/edit/web-platform-d28us6?file=styles.css), [Example 2](https://stackblitz.com/edit/web-platform-ftogmz?file=styles.css), [Float clearfix](https://stackblitz.com/edit/web-platform-zfmawu?file=styles.css)
