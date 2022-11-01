@@ -10,8 +10,8 @@ Content to be added:
   - [x] [Box model](https://github.com/msg-CareerPaths/css-training/blob/main/docs/box-model.md)
   - [ ] Selectors
   - [ ] Specificators and Important!
-  - [ ] Absolute, relative and float :construction:
-  - [ ] Before and After
+  - [x] [Position](https://github.com/msg-CareerPaths/css-training/blob/main/docs/position.md)
+  - [ ] Before and After :construction:
   - [ ] Media Queries
   - [ ] Grid
   - [ ] Flex
