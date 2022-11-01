@@ -32,4 +32,4 @@ References: [W3Schools](https://www.w3schools.com/css/css_positioning.asp),
 
 References: [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats), [:movie_camera:](https://www.youtube.com/watch?v=LrdkRMZhgZg)
 
-Hands on:[Example 1](https://stackblitz.com/edit/web-platform-d28us6?file=styles.css), [Example 2](https://stackblitz.com/edit/web-platform-ftogmz?file=styles.css), [Float clearfix](https://stackblitz.com/edit/web-platform-zfmawu?file=styles.css)
+Hands on: [Example 1](https://stackblitz.com/edit/web-platform-d28us6?file=styles.css), [Example 2](https://stackblitz.com/edit/web-platform-ftogmz?file=styles.css), [Float clearfix](https://stackblitz.com/edit/web-platform-zfmawu?file=styles.css)
