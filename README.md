@@ -3,8 +3,7 @@
 Idea: make an exercise to do the css styling / or smaller problems
 
 - Basics of language
-  - [ ] CSS Introduction [:arrow_forward:](https://www.youtube.com/watch?v=OEV8gMkCHXQ)
-  - [ ] https://htmldog.com/guides/css/beginner/applyingcss/
+  - [ ] CSS Introduction :construction:
   - [x] [Box model](https://github.com/msg-CareerPaths/css-training/blob/main/docs/box-model.md)
   - [ ] Selectors
   - [ ] Specificators and Important!
