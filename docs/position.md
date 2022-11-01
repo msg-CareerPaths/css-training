@@ -22,7 +22,7 @@ Position must be set first before we can use top, bottom, left, right properties
 
 References: [W3Schools](https://www.w3schools.com/css/css_positioning.asp), 
 [Mozillla](https://developer.mozilla.org/en-US/docs/Web/CSS/position),
-[:movie_camera:](https://www.youtube.com/watch?v=jx5jmI0UlXU&ab_channel=WebDevSimplified)
+[:arrow_forward:](https://www.youtube.com/watch?v=jx5jmI0UlXU&ab_channel=WebDevSimplified)
 
 ### Float property
 
