@@ -3,9 +3,10 @@
 Idea: make an exercise to do the css styling / or smaller problems
 
 Content to be added:
-- Add also videos
-  - [ ] https://www.youtube.com/watch?v=OEV8gMkCHXQ&ab_channel=Fireship
+- Introduction
+  - [ ] 
 - Basics of language
+  - [ ] CSS Introduction [[:arrow_forward:]](https://www.youtube.com/watch?v=OEV8gMkCHXQ)
   - [ ] https://htmldog.com/guides/css/beginner/applyingcss/
   - [x] [Box model](https://github.com/msg-CareerPaths/css-training/blob/main/docs/box-model.md)
   - [ ] Selectors
@@ -26,7 +27,7 @@ Content to be added:
 - Best practices
   - [ ] https://github.com/airbnb/css
 - Browser compatibility
-  - [ ]https://caniuse.com
+  - [ ] https://caniuse.com
   - [ ] Use Games like: https://flexboxfroggy.com
 - Framework specific information
   - [ ] https://medium.com/swlh/how-to-structure-scss-in-an-angular-app-a1b8a759a028
